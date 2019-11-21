@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2016-04-30 11:46">
+    <shop>
+        
+        <name>Malina Market</name>
+        <company>Malina Market</company>
+        <url></url>
+        <agency></agency>
+        <email></email>
+        
+        <currencies>
+            <currency id="UZS" rate="1" plus="0"/>
+        </currencies>
+		
+        <local_delivery_cost>
+            10000
+        </local_delivery_cost>
+
+        <categories>
+            <category id="1">МЕВА ВА САБЗАВОТЛАР</category>
+            <category id="2">ШИРИНЛИК ВА УН МАҲСУЛОТЛАРИ</category>
+            <category id="3">ИЧИМЛИКЛАР</category>
+            <category id="4">ГЎШТ МАҲСУЛОТЛАРИ</category>
+            <category id="5">СУТ МАҲСУЛОТЛАРИ</category>
+            <category id="6">БАҚҚОЛЛИК МАҲСУЛОТЛАРИ</category>
+            <category id="7">КОНСЕРВА МАҲСУЛОТЛАР</category>
+            <category id="8">МАИШИЙ МАҲСУЛОТЛАР</category>
+            <category id="9">ГИГИЕНА</category>
+            <category id="10">БОЛАЛАР УЧУН</category>
+            <category id="11">МУЗЛАТИЛГАН МАҲСУЛОТЛАР</category>
+            <category id="12">КАНЦЕЛЯРИЯ МАҲСУЛОТЛАРИ</category>
+            <category id="13">ЧОЙ/КОФЕ</category>
+            
+            <category id="11" parentId="1">МЕВА</category>
+            <category id="12" parentId="1">САБЗАВОТ</category>
+            
+            <category id="21" parentId="2">ШОКОЛАДЛАР</category>
+            <category id="22" parentId="2">ПЕЧЕНЬЕЛАР</category>
+            <category id="23" parentId="2">НОН МАҲСУЛОТЛАРИ</category>
+            
+            <category id="31" parentId="3">ГАЗЛАНГАН ИЧИМЛИКЛАР</category>
+            <category id="32" parentId="3">СОКЛАР</category>
+
+            <category id="41" parentId="4">КОЛБАСА ВА СОСИСКАЛАР</category>
+            <category id="42" parentId="4">ҚЎЙ ГЎШТИ</category>
+            <category id="43" parentId="4">МОЛ ГЎШТИ</category>
+            
+            <category id="51" parentId="5">ЙОГУРТ</category>
+            <category id="52" parentId="5">МАРГАРИН</category>
+            <category id="53" parentId="5">ПИШЛОҚ</category>
+            <category id="54" parentId="5">ҚАТИҚ</category>
+            <category id="55" parentId="5">ҚАЙМОҚ</category>
+            <category id="56" parentId="5">КЕФИР</category>
+            <category id="57" parentId="5">САРЁҒ</category>
+            <category id="58" parentId="5">ТВОРОГ</category>
+            <category id="59" parentId="5">МУЗҚАЙМОҚ</category>
+            
+            <category id="61" parentId="6">УН</category>
+            <category id="62" parentId="6">МАКАРОН</category>
+            <category id="63" parentId="6">ЗИРАВОРЛАР</category>
+            <category id="64" parentId="6">КЕТЧУП, СОУС, МАЙОНЕЗЛАР</category>
+            <category id="65" parentId="6">МАРГАРИН</category>
+            <category id="66" parentId="6">ЎСИМЛИК ЁҒИ</category>
+            <category id="67" parentId="6">АСАЛ, МУРАББО, ДЖЭМ</category>
+            <category id="68" parentId="6">ШАКАР, НОВВОТ, ТУЗ</category>
+            <category id="69" parentId="6">ТЕЗ ТАЙЁРЛАНАДИГАН МАҲСУЛОТЛАР</category>
+            <category id="610" parentId="6">ПИСТА, ЧИПС, ҚУРТ, ПОПКОРН</category>
+            
+            <category id="71" parentId="7">ҚУЙИЛТИРИЛГАН СУТ</category>
+            <category id="72" parentId="7">ГЎШТ КОНСЕРВАЛАР</category>
+            <category id="73" parentId="7">ТОМАТ ПАСТАЛАР</category>
+            <category id="74" parentId="7">МЕВА/САБЗАВОТ КОНСЕРВАЛАР</category>
+            
+            <category id="81" parentId="8">ПАКЕТЛАР/ҚОҒОЗЛАР/ПЛЁНКАЛАР/ЗАРҚОҒОЗ</category>
+            <category id="82" parentId="8">БИР МАРТАЛИК ИДИШЛАР</category>
+            <category id="83" parentId="8">ҲАВО ТОЗАЛАГИЧЛАР</category>
+            <category id="84" parentId="8">ШАМЛАР/ГУГУРТ</category>
+            <category id="85" parentId="8">ҲАШАРОТЛАРГА ҚАРШИ ВОСИТАЛАР</category>
+            <category id="86" parentId="8">УЙ УЧУН</category>
+            <category id="87" parentId="8">ПОЙАБЗАЛ УЧУН КРЕМ</category>
+        </categories>
+	
+	<offers>
+            <offer id="10000" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>10</categoryId>
+                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256059.jpg</picture>
+                <typePrefix></typePrefix>
+                <model>Nutrilak</model>
+                <description></description>
+                <sales_notes></sales_notes>
+            </offer>
+
+            <offer id="10001" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>64</categoryId>
+                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256058.jpg</picture>
+                <typePrefix></typePrefix>
+                <model>Mayonez</model>
+                <description>Some description goes here</description>
+                <sales_notes></sales_notes>
+            </offer>
+
+            <offer id="10002" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>63</categoryId>
+                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256059.jpg</picture>
+                <typePrefix></typePrefix>
+                <model>Priprava</model>
+                <description></description>
+                <sales_notes></sales_notes>
+            </offer>
+
+            <offer id="10003" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>10</categoryId>
+                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256063.jpg</picture>
+                <typePrefix></typePrefix>
+                <model>Pampers</model>
+                <description></description>
+                <sales_notes></sales_notes>
+            </offer>
+
+            <offer id="10004" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>10</categoryId>
+                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256064.jpg</picture>
+                <typePrefix></typePrefix>
+                <model></model>
+                <description></description>
+                <sales_notes></sales_notes>
+            </offer>
+
+            <offer id="10005" type="vendor.model" available="true" bid="3" cbid="3">
+                <url></url>
+                <price>10000</price>
+                <currencyId>UZS</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vendor></vendor>
+                <categoryId>9</categoryId>
+                <picture>https://github.com/philantr0p/malina/blob/master/images/photo5361564979230256066.jpg</picture>
+                <typePrefix></typePrefix>
+                <model>CLEAR</model>
+                <description></description>
+                <sales_notes></sales_notes>
+            </offer>
+
+
+	</offers>
+        
+    </shop>
+</yml_catalog>
