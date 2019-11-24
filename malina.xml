@@ -84,17 +84,17 @@
 	<offers>
             <offer id="10000" type="vendor.model" available="true" bid="3" cbid="3">
                 <url></url>
-                <price>10000</price>
+                <price>3900</price>
                 <currencyId>UZS</currencyId>
                 <store>true</store>
                 <pickup>true</pickup>
                 <delivery>true</delivery>
                 <vendor></vendor>
                 <categoryId>10</categoryId>
-                <picture>https://github.com/philantr0p/malina/raw/master/images/photo5361564979230256059.jpg</picture>
+                <picture>https://github.com/Iskandaraka/iskandar/blob/5b7e34627a3b7da070fdc637c302da5e0e90f5f0/twix-.jpg</picture>
                 <typePrefix></typePrefix>
-                <model>Nutrilak</model>
-                <description></description>
+                <model>Twix</model>
+                <description>500 грамм</description>
                 <sales_notes></sales_notes>
             </offer>
 
